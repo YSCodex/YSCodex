@@ -78,14 +78,7 @@
 
 <div align="center">
 
-```text
-██████╗ ██╗   ██╗██╗██████╗ ███████╗
-██╔══██╗██║   ██║██║██╔══██╗██╔════╝
-██████╔╝██║   ██║██║██████╔╝█████╗
-██╔══██╗╚██╗ ██╔╝██║██╔══██╗██╔══╝
-██║  ██║ ╚████╔╝ ██║██████╔╝███████╗
-╚═╝  ╚═╝  ╚═══╝  ╚═╝╚═════╝ ╚══════╝
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Yuvraj%20Singh&fontSize=48&fontColor=00F7FF&color=0:000000,50:081229,100:00F7FF&animation=twinkling"/>
 
 **`Code • Hack • Build • Repeat`**
 
